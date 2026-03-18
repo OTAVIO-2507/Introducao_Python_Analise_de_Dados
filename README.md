@@ -1,5 +1,5 @@
 # 📝 Lista de Exercícios - Parte 1 e Parte 2
-Este projeto contém duas partes de exercícios focados em fundamentos matemáticos. As listas de exercícios são estruturadas para ajudar no entendimento e prática dos conceitos de matemática para o 6º e 7º ano do ensino fundamental, com foco em operações e problemas interpretativos.
+Este projeto contém duas partes de exercícios focados em fundamentos matemáticos. As listas de exercícios são estruturadas para ajudar no entendimento e prática dos conceitos para python, com foco em operações e problemas interpretativos.
 
 ## 🛠️ Tecnologias Utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias e ferramentas:
