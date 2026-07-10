@@ -1,9 +1,13 @@
+<div align="center">
+
 # Introdução ao Python para Análise de Dados
 
 Coleção de notebooks Jupyter com três listas de exercícios de fundamentos de Python aplicados à análise de dados, além de um projeto prático de Data Science que consolida os conceitos estudados.
 
-![Python](https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+</div>
 
 ## Visão geral
 
@@ -51,8 +55,3 @@ Introducao_Python_Analise_de_Dados/
 └── README.md
 ```
 
-## Autor
-
-**Otávio Oliveira** — Desenvolvedor Full Stack
-
-[GitHub](https://github.com/OTAVIO-2507) · [Portfólio](https://otavio-2507.github.io/Portifolio-v2/) · [E-mail](mailto:56otavio@gmail.com)
