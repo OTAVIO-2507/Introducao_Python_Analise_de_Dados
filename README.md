@@ -4,7 +4,8 @@
 
 Coleção de notebooks Jupyter com três listas de exercícios de fundamentos de Python aplicados à análise de dados, além de um projeto prático de Data Science que consolida os conceitos estudados.
 
-![Tecnologias utilizadas](https://skillicons.dev/icons?i=py,jupyter)
+![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 </div>
 
